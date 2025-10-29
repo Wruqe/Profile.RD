@@ -1,4 +1,4 @@
 # Profile.RD
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wruqe)](https://github.com/wruqe/Profile.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wruqe)](https://github.com/Wruqe/Profile.md)
